@@ -1,0 +1,28 @@
+.container > div {
+  display: flex;
+  padding: 10px;
+  align-items: top left;
+  font-size: 18px;
+  color: #ffeead;
+  border: 2px solid white;
+}
+
+body {
+margin: 0px;
+}
+
+.container >  .site-header {
+background-color: #51A6F8;	
+}
+
+.container > .site-main {
+background-color: #6FC040;
+}
+
+.container > .widget-area {
+    background-color: #B269E1;
+}
+
+.container > .site-footer {
+    background-color: #0365C0;
+}
